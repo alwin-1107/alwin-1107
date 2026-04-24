@@ -84,9 +84,9 @@ I'm an **Information Technology** undergrad at FCRIT, Navi Mumbai (class of 2026
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-alwinmathew1107%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alwinmathew1107@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-alwin--1107-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alwin-1107)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alwin_Mathew-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwin-mathew)
+[![Email](https://img.shields.io/badge/Email-alwinmathew1107@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alwinmathew1107@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-alwin--1107-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alwin-1107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alwin_Mathew-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alwin-mathew-161673285/)
 
 </div>
 
