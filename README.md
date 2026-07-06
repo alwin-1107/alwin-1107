@@ -75,7 +75,7 @@ I'm an **Information Technology** undergrad at FCRIT, Navi Mumbai (class of 2026
 |---|---------|-------|--------------|
 | 🧭 | **[RoomScan](https://github.com/alwin-1107/roomscan)** | Python · Flask · Three.js · YOLOv8 · WebAR | Mobile-first PWA that measures real-world objects from photos and renders them in browser-native AR — no ARCore/ARKit required |
 | 🧠 | **[CNN Image Classifier](https://github.com/alwin-1107/scenery-classification-app)** | Python · TensorFlow · Deep Learning | Custom CNN from scratch on 25K Intel Image dataset — 81% test accuracy with augmentation & dropout |
-| ❤️ | **[Heart Disease Predictor](https://github.com/alwin-1107/heart-disease-predictor)** | Python · Scikit-learn · Streamlit | Stacking classifier (RF + SVM) achieving 93.7% ROC-AUC; deployed as interactive Streamlit app |
+| ❤️ | **[Heart Disease Predictor](https://github.com/alwin-1107/cardiac-risk-ensemble-app)** | Python · Scikit-learn · Streamlit | Stacking classifier (RF + SVM) achieving 93.7% ROC-AUC; deployed as interactive Streamlit app |
 | 🎬 | **[Sentiment Analyzer](https://github.com/alwin-1107/movie-sentiment-app)** | Python · DistilBERT · TF-IDF · Streamlit | Dual-model NLP pipeline (classical vs transformer) on 50K IMDB reviews with live comparison UI |
 
 ---
