@@ -93,8 +93,8 @@ Graduate Software Engineer who likes making machines *see* and understand the ph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alwin-1107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwin-1107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-mu-one-19.vercel.app/api?username=alwin-1107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-mu-one-19.vercel.app/api/top-langs/?username=alwin-1107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 </div>
 
