@@ -66,12 +66,10 @@ Graduate Software Engineer who likes making machines *see* and understand the ph
 
 | # | Project | Stack | What it does |
 |---|---------|-------|--------------|
-| 🧭 | **[RoomScan](https://github.com/alwin-1107/roomscan)** `🚧 shipping soon` | Python · Flask · YOLOv8 · Gemini VLM · Three.js | Point your phone at any object → get its real-world dimensions → drop a to-scale 3D twin into your room in live WebAR. Zero ARKit, zero ARCore, zero app install. |
+| 🧭 | **[RoomScan](https://github.com/alwin-1107/roomscan)** · [🔴 Live Demo](https://roomscan.onrender.com/) | Python · Flask · YOLOv8 · Gemini VLM · Three.js | Point your phone at any object → get its real-world dimensions → drop a to-scale 3D twin into your room in live WebAR. Zero ARKit, zero ARCore, zero app install. |
 | ❤️ | **[Heart Disease Predictor](https://github.com/alwin-1107/cardiac-risk-ensemble-app)** | Python · Scikit-learn · Streamlit | Stacking ensemble (Random Forest + SVM) that outperforms baseline XGBoost & Gradient Boosting — 93.7% ROC-AUC, deployed live. |
 | 🖼️ | **[CNN Image Classifier](https://github.com/alwin-1107/scenery-classification-app)** | Python · TensorFlow | Custom CNN built from scratch — 81% test accuracy classifying 25K scenery images into 6 categories. |
 | 🎬 | **[Sentiment Analyzer](https://github.com/alwin-1107/movie-sentiment-app)** | Python · DistilBERT · TF-IDF | Classical ML vs Transformers, head-to-head, on 50K IMDB reviews — Dockerized and deployed on AWS EC2. |
-
-<sub>*RoomScan's source is mid-cleanup before it goes public — the description above is accurate to the working build.*</sub>
 
 ---
 
@@ -100,13 +98,7 @@ Graduate Software Engineer who likes making machines *see* and understand the ph
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alwin-1107&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alwin-1107&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
+[![Followers](https://img.shields.io/github/followers/alwin-1107?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white)](https://github.com/alwin-1107?tab=followers)
 
 </div>
 
