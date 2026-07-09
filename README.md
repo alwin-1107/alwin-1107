@@ -67,9 +67,9 @@ Graduate Software Engineer who likes making machines *see* and understand the ph
 | # | Project | Stack | What it does |
 |---|---------|-------|--------------|
 | 🧭 | **[RoomScan](https://github.com/alwin-1107/roomscan)** · [🔴 Live Demo](https://roomscan.onrender.com/) | Python · Flask · YOLOv8 · Gemini VLM · Three.js | Point your phone at any object → get its real-world dimensions → drop a to-scale 3D twin into your room in live WebAR. Zero ARKit, zero ARCore, zero app install. |
-| ❤️ | **[Heart Disease Predictor](https://github.com/alwin-1107/cardiac-risk-ensemble-app)** | Python · Scikit-learn · Streamlit | Stacking ensemble (Random Forest + SVM) that outperforms baseline XGBoost & Gradient Boosting — 93.7% ROC-AUC, deployed live. |
-| 🖼️ | **[CNN Image Classifier](https://github.com/alwin-1107/scenery-classification-app)** | Python · TensorFlow | Custom CNN built from scratch — 81% test accuracy classifying 25K scenery images into 6 categories. |
-| 🎬 | **[Sentiment Analyzer](https://github.com/alwin-1107/movie-sentiment-app)** | Python · DistilBERT · TF-IDF | Classical ML vs Transformers, head-to-head, on 50K IMDB reviews — Dockerized and deployed on AWS EC2. |
+| ❤️ | **[Heart Disease Predictor](https://github.com/alwin-1107/cardiac-risk-ensemble-app)** · [🔴 Live Demo](https://cardiac-risk-ensemble.streamlit.app/) | Python · Scikit-learn · Streamlit | Stacking ensemble (Random Forest + SVM) that outperforms baseline XGBoost & Gradient Boosting — 93.7% ROC-AUC, deployed live. |
+| 🖼️ | **[CNN Image Classifier](https://github.com/alwin-1107/scenery-classification-app)** · [🔴 Live Demo](https://scenery-classifier.streamlit.app/) | Python · TensorFlow | Custom CNN built from scratch — 81% test accuracy classifying 25K scenery images into 6 categories. |
+| 🎬 | **[Sentiment Analyzer](https://github.com/alwin-1107/movie-sentiment-app)** · [🔴 Live Demo](https://movie-sentiment-classifier.streamlit.app/) | Python · DistilBERT · TF-IDF | Classical ML vs Transformers, head-to-head, on 50K IMDB reviews — Dockerized and deployed on AWS EC2. |
 
 ---
 
